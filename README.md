@@ -35,6 +35,10 @@ Desenvolvedora web com experiência em PHP, SQL e Laravel, sempre em busca de ap
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ErikaGomess&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ErikaGomess/dio-lab-open-source)
 
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ErikaGomess&repo=trackapi&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ErikaGomess/dio-lab-open-source)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ErikaGomess&repo=dashboard-bootstrap&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ErikaGomess/dio-lab-open-source)
+
 ---
 
 💡 *"Sempre codando com café, curiosidade e paixão por aprender!"* ☕💻
